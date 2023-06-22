@@ -78,7 +78,7 @@ $ code .
 
 ## ⚙️ Deploy
 
-O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](johnpetros.github.io/productpreview-card/)**.
+O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/product-preview-card/)**.
 
 ---
 
